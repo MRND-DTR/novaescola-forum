@@ -1,0 +1,45 @@
+.body{
+    background-image: url(../Src/Login-NovaEscola-Fundo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.img-logo{
+    width: 50%;
+    height: 50%;
+    margin-left: 24%;
+    margin-top: 10%;
+
+}
+.form-login{
+    width: 180px;
+    height: 180px;
+    padding: 25px;
+    margin-top: 43px;
+    margin-left: 556px;
+    margin-right: auto;
+    box-shadow: 0px 0px 20px rgba(0,0,0,.3);
+    border-radius: 5px;
+    text-align: center;
+}
+.btn-rnd{
+    border-radius: 25px;
+    width: auto;
+    box-sizing: border-box;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s linear;
+    border: solid 2px transparent; 
+    padding: 10px;
+}
+input{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 7px;
+    border: none;
+    font-size: 11pt;
+    background-color: transparent;
+    border-bottom: solid 2px transparent;
+    transition: all .3s;    
+}
